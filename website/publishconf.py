@@ -10,6 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+THEME = "Gum"
+
 SITEURL = ''
 RELATIVE_URLS = False
 
